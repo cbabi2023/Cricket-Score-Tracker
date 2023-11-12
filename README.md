@@ -60,4 +60,4 @@ The GUI will display live matches, and you can select a match and click the "Che
 - Ensure that the required packages are installed in the correct Python environment.
 - If you encounter any issues, check the VS Code terminal for error messages, and make sure the `cric.png` image is in the project folder.
 
-Following these steps should allow you to run the cricket score tracker program in VS Code successfully. If you have any further questions or encounter issues, feel free to ask!
+Following these steps should allow you to run the cricket score tracker program in VS Code successfully.
